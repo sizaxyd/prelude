@@ -21,3 +21,7 @@ session*
 .cask
 tramp
 /var/pcache
+company-statistics-cache.el
+ido.last
+.session
+anaconda-mode/
